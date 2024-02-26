@@ -1,39 +1,39 @@
-# Electricity-Bill-System #
+# Electricity-Bill-System
  This project is a simple electricity bill management system developed using Core Java. It provides functionalities such as calculating bills, managing customer details, user authentication, and more. The system utilizes MySQL for database management and XAMPP's phpMyAdmin for database connectivity.
 
 ## Features
-**Admin Functions**:
+### **Admin Functions**:
 
 - Creation of new customers with assigned meter information.
 - Viewing all customer details.
 - Calculating bills for all customers.
 
-**Customer Functions**:
+### **Customer Functions**:
 
 - Creating a personal account after admin approval.
 - Viewing account information.
 
 ## Project Components:
-- CalculateBill: Module responsible for calculating electricity bills.
-- conn: Handles database connectivity.
-- CustomerDetails: Manages customer information.
-- Home: Home screen module.
-- Login: User authentication module.
-- Main Screen: Main interface module.
-- New Customer: Module for adding new customers.
-- Signup: User registration module.
-- ViewInformation: Module for viewing customer information.
+- **CalculateBill:** Module responsible for calculating electricity bills.
+- **conn:** Handles database connectivity.
+- **CustomerDetails:** Manages customer information.
+- **Home:** Home screen module.
+- **Login:** User authentication module.
+- **Main Screen:** Main interface module.
+- **New Customer:** Module for adding new customers.
+- **Signup:** User registration module.
+- **ViewInformation:** Module for viewing customer information.
 
 ## Modules Overview
-- Database Connection Module: Handles connection to MySQL Database.
-- Main Screen Module: Initializes the system and calls the login module.
-- Login Module: Manages user login and registration.
-- Signup Module: Enables user registration as a customer or admin.
-- Home Module: Displays options based on user type (admin or customer).
-- New Customer Module: Allows admin to create new customers.
-- Customer Details Module: Displays details of all customers for admin.
-- Calculate Bill Module: Enables admin to calculate bills for customers.
-- View Information Module: To view account information.
+- **Database Connection Module**: Handles connection to MySQL Database.
+- **Main Screen Module:** Initializes the system and calls the login module.
+- **Login Module:** Manages user login and registration.
+- **Signup Module:** Enables user registration as a customer or admin.
+- **Home Module:** Displays options based on user type (admin or customer).
+- **New Customer Module:** Allows admin to create new customers.
+- **Customer Details Module:** Displays details of all customers for admin.
+- **Calculate Bill Module:** Enables admin to calculate bills for customers.
+- **View Information Module:** To view account information.
 
 
 # Setup Instructions:
