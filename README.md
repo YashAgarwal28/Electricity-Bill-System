@@ -2,13 +2,13 @@
  This project is a simple electricity bill management system developed using Core Java. It provides functionalities such as calculating bills, managing customer details, user authentication, and more. The system utilizes MySQL for database management and XAMPP's phpMyAdmin for database connectivity.
 
 # Features
-**#**Admin Functions:
+**Admin Functions**:
 
 - Creation of new customers with assigned meter information.
 - Viewing all customer details.
 - Calculating bills for all customers.
 
-**#**Customer Functions:
+**Customer Functions**:
 
 - Creating a personal account after admin approval.
 - Viewing account information.
