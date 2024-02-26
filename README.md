@@ -1,7 +1,7 @@
-# Electricity-Bill-System
+# Electricity-Bill-System #
  This project is a simple electricity bill management system developed using Core Java. It provides functionalities such as calculating bills, managing customer details, user authentication, and more. The system utilizes MySQL for database management and XAMPP's phpMyAdmin for database connectivity.
 
-# Features
+## # Features
 **Admin Functions**:
 
 - Creation of new customers with assigned meter information.
@@ -42,15 +42,15 @@
 
 # Download Dependencies:
 
-- MySQL Connector: [Download Link](https://static.javatpoint.com/src/jdbc/mysql-connector.jar)
-- R2xml: [Download Link](https://sourceforge.net/projects/finalangelsanddemons/files/rs2xml.jar/download)
-- Images: [download link](https://drive.google.com/drive/folders/1SlwaPUSpnnBfeyfzufR8wUzCd2QGg3Me?usp=drive_link)
+- **MySQL Connector:** [Download Link](https://static.javatpoint.com/src/jdbc/mysql-connector.jar)
+- **R2xml:** [Download Link](https://sourceforge.net/projects/finalangelsanddemons/files/rs2xml.jar/download)
+- **Images:** [download link](https://drive.google.com/drive/folders/1SlwaPUSpnnBfeyfzufR8wUzCd2QGg3Me?usp=drive_link)
 
 
 # Importing the MySQL Connector JAR File & R2xml JAR File into Your Java Project
 After downloading the MySQL Connector/J JAR file & R2xml JAR file, you need to import it into your Java project. The process may vary depending on the development environment or build tool you are using. Here we are using Eclipse IDE:
 
-Eclipse IDE:
+**Eclipse IDE:**
 
 To import the MySQL Connector/J JAR file & R2xml JAR file into your Eclipse project, follow these steps:
 
