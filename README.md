@@ -60,19 +60,19 @@ To import the MySQL Connector/J JAR file & R2xml JAR file into your Eclipse proj
 4. Browse to the location where you downloaded the MySQL Connector/J JAR file & R2xml JAR file and select it.
 5. Click “Apply” and then “OK” to save the changes.
 
-# Image Folder:
+## Image Folder:
 
 - Keep all the downloaded images in the "icon" folder within the project directory.
 
-# Database Configuration:
+## Database Configuration:
 
 - Start XAMPP and launch phpMyAdmin.
 - Create a new database for the project and configure the connection details in the conn module.
 
-# Run the Project:
+## Run the Project:
 Once configured, run the project using Eclipse IDE.
 
-# Note:
+## Note:
 Make sure to have XAMPP with phpMyAdmin running and the necessary MySQL server and Workbench installed for proper database connectivity.
 
 
